@@ -1,0 +1,6 @@
+{
+  "require": {
+    	"confirm-it-solutions/php-zabbix-api": "2.4.5",
+		"longman/telegram-bot": "*"
+    }
+}
