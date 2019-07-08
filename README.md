@@ -51,3 +51,8 @@ php-telegram-bot library communicates with Telegram API.
 - To search, type `/search <something>` and you will get hosts having `<something>` in visible names. Then use inline buttons to get items, latest data and graphs.
 - To get list of recent problems, use `/problems` command.
 - See `settings.php` to adjust bot's behavior.
+
+## To Do
+- Impersonation (telegram users <=> Zabbix users with privileges respected)
+- Show host group and some host macros
+- Code redesign to support callback query commands more accurately
