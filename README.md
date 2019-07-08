@@ -10,6 +10,8 @@ This telegram bot provides some basic information from Zabbix:
 
 This bot can replace Zabbix web frontend in cases when you want to see some info quickly on your smartphone, no need to open desktop browser.
 
+Some GIF animated demonstration here: https://gifyu.com/image/EQdk
+
 ## How it works
 PhpZabbixApi library communicates with Zabbix API.
 
